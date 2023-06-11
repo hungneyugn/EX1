@@ -7,3 +7,5 @@ Control 3 leds with 3 buttons <br>
 ## Detail
 - Define some functions in autosar using exist functions in Standard Peripheral Libraries: `Dio.h`, `Dio.c`.
 - Write program with Dio library.
+## Result
+Video: https://youtu.be/ELiQ98NTB14
