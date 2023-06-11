@@ -5,4 +5,5 @@ Control 3 leds with 3 buttons <br>
 - Button 2: Ligh up led
 - Button 3: Turn off all leds
 ## Detail
-- Define some functions in autosar using exist functions in Standard Peripheral Libraries: `Dio.h`, `Dio.c`
+- Define some functions in autosar using exist functions in Standard Peripheral Libraries: `Dio.h`, `Dio.c`.
+- Write program with Dio library.
